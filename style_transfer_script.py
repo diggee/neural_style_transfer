@@ -176,7 +176,7 @@ style_weight =  1e-4
 content_weight = 1e-16 
 var_weight = 1e-4
 
-resolution = (600, 800)
+resolution = (1080, 1920)
 style_images = os.listdir('style_images/')
 content_images = os.listdir('content_images/')
 
